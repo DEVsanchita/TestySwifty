@@ -31,6 +31,3 @@ app.get("/", (req, res) => { //.get method is a http method which helps to reque
   });
 
 app.listen(port, () => console.log(`Server started on http://localhost:${port}`))
-
-
-//mongodb+srv://majumdarsanchita25:Sanchita25@cluster0.fete31l.mongodb.net/?
